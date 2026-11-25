@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "麻雀セット",
+        "uuid": "c8308925-d523-472d-82e9-7596203aa8d1",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "0ab2561e-d92d-4664-b179-24049d368cd5",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

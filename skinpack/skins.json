@@ -1,0 +1,252 @@
+{
+  "skins": [
+    {
+      "localization_name": "1m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "1m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "2m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "2m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "3m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "3m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "4m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "5m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "5m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "6m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "6m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "7m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "7m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "8m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "8m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "9m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "9m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "1p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "1p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "2p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "2p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "3p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "3p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "4p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "5p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "5p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "6p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "6p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "7p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "7p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "8p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "8p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "9p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "9p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "1s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "1s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "2s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "2s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "3s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "3s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "4s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "5s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "5s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "6s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "6s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "7s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "7s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "8s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "8s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "9s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "9s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "a1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "a1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "a2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "a2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "a3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "a3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "a4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "a4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "w1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "w1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "w2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "w2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "w3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "w3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "w4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "w4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "d1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "d1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "d2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "d2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "d3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "d3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "r5m",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "r5m.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "r5p",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "r5p.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "r5s",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "r5s.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "mjset",
+  "localization_name": "mjset"
+}
