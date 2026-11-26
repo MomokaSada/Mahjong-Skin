@@ -1,8 +1,8 @@
-# Mahjong-skin
+# Mahjong-Skin
 
 Minecraft Bedrock Edition 用の麻雀牌スキンパックです。
 
-![preview](docs/assets/image.png)
+![preview](image.png)
 
 ## 作者
 
@@ -11,7 +11,7 @@ Minecraft Bedrock Edition 用の麻雀牌スキンパックです。
 
 ## インストール
 
-1. [Releases](https://github.com/MomokaSada/Mahjong-skin/releases) から `Mahjong-skin.mcpack` をダウンロード
+1. [Releases](https://github.com/MomokaSada/Mahjong-Skin/releases) から `Mahjong-Skin.mcpack` をダウンロード
 2. ダブルクリックで Minecraft にインポート
 
 ## リリースの作り方

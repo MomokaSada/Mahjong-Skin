@@ -24,7 +24,7 @@ jobs:
       - name: Build mcpack
         run: |
           cd skinpack
-          zip -r ../Mahjong-skin.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
+          zip -r ../Mahjong-Skin.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
 
       - name: Determine release tag
         id: tag
@@ -41,5 +41,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.tag.outputs.name }}
-          files: Mahjong-skin.mcpack
+          files: Mahjong-Skin.mcpack
           generate_release_notes: true
