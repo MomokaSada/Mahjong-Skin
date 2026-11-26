@@ -2,7 +2,7 @@
 
 Minecraft Bedrock Edition 用の麻雀牌スキンパックです。
 
-![preview](image.png)
+![preview](docs/assets/image.png)
 
 ## 作者
 
